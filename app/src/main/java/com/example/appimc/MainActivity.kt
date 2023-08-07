@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
             in 18.51..24.99999999 -> return  "Peso Normal"
             in 25.0..29.999999999 -> return  "Sobre Peso"
             in 30.0..100.0 -> return "Peligro Obesidad"
-            else -> return "Datos erroneos vuelva a introducir otros datos"
+            else -> return "Datos erroneos vuelva a introducir datos"
         }
     }
 }
