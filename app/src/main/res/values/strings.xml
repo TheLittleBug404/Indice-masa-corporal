@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppIMC</string>
+    <string name="peso">Peso</string>
+    <string name="estatura">Estatura</string>
+    <string name="titulo">Indice de masa corporal</string>
+    <string name="kg">Kg</string>
+    <string name="mts">mts</string>
+    <string name="calcular">Calcular</string>
 </resources>
